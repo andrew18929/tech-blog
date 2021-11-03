@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Select the login button to start",
+    "content": "From there you can log in or select the sign up now link to create an account.",
+    "user_id": 1
+  },
+  {
+    "title": "Dashboard is where you'll see all the posts that you have written.",
+    "content": "From there you can select a post to edit or delete as well.",
+    "user_id": 2
+  },
+  {
+    "title": "Homepage is for everyone",
+    "content": "You can see all posts from the homepage view, and will have the ability to click on a post and comment on it if you're logged in.",
+    "user_id": 1
+  },
+  {
+    "title": "Logging out",
+    "content": "You can select the logout button, alternatively you'll be logged out automatically after 10 minutes.",
+    "user_id": 1
+  }
+]
